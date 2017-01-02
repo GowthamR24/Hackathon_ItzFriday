@@ -1,3 +1,4 @@
 # Hackathon_ItzFriday
 
-Use $npm start to Run
+Use $npm start
+to Run
