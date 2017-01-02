@@ -1,13 +1,11 @@
 import React from 'react';
 
-class External extends React.Component {
+export default class External extends React.Component {
    render() {
       return (
-         <div id="second">
+         <h3>
           Displaying from External.jsx File
-         </div>
+         </h3>
       );
    }
 }
-
-export default External;
