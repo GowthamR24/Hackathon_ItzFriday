@@ -5,7 +5,7 @@ import Out from './Out.jsx';
 class App extends React.Component {
    render() {
       return (
-         <div id="first">
+         <div>
             Displaying from App.jsx file
             <External/>
             <Out />
